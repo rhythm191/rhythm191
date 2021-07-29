@@ -1,4 +1,9 @@
-### Hi there 👋
+### GitHub Profile
+
+[![rhythm191's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhythm191&count_private=true&theme=monokai&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhythm191&count_private=true&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **rhythm191/rhythm191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
